@@ -51,7 +51,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/anujjamdade007/shortly.git
+   git clone https://github.com/anujjamdade007/Gamify.git
    ```
 2. Create Virtual Environment
    ```sh
