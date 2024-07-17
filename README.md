@@ -1,27 +1,16 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a id="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="static/images/mainlogo.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/user-attachments/assets/597651c1-440a-4a6a-992e-97b6066b2045" alt="Logo" width="300" height="300">
   </a>
 
-  <h3 align="center">Shortly - Url Shortner</h3>
+
+
+  <h3 align="center">Gamify - Homework and Quizzes</h3>
 
   <p align="center">
-    An awesome Url Shortner Build with Django And Bootstrap !
+    Learn By play  !
    
     
   </p>
